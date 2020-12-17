@@ -1,0 +1,1 @@
+itemlistlocator="(//*[@class='products-list cell-list']/li/div[2]/p/a)[1]"
